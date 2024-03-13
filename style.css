@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+
+div.all {
+    width: 100%;
+    overflow: auto;
+
+}
+div.all div {
+    width: 33%;
+    float: left;
+
+}
